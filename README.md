@@ -4,6 +4,10 @@
 - [![lint](https://github.com/nogibjj/ids706-individual-project1/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/ids706-individual-project1/actions/workflows/lint.yml)
 - [![test](https://github.com/nogibjj/ids706-individual-project1/actions/workflows/test.yml/badge.svg)](https://github.com/nogibjj/ids706-individual-project1/actions/workflows/test.yml)
 
+A 2-5 minute video is included, explaining the project and demonstrating its functionality. The video should be of high quality (both audio and visual), not exceed the given time limit, and be linked in the README via a private or public YouTube link.  
+https://youtu.be/xEHKM-zMWtM
+
+
 ## Project Description
 This project uses the `Pandas` library to perform descriptive statistics on the Iris dataset. The dataset is well-known in the field of machine learning and statistics for its simplicity and utility in classification tasks.
 
